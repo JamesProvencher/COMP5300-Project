@@ -11,6 +11,7 @@ RUN-INSTRUCTIONS:
 TROUBLESHOOTING:
 If you have issues loading image files or saving:
   your struture should be
+  
   Working Directory -> 'Kather_texture_2016_larger_images_10' -> 10 images
   
                        'Kather_texture_2016_image_tiles_5000' -> 8 class subdirectories
